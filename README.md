@@ -15,9 +15,9 @@ Este README se utilizará para mantener un registro de mi progreso y como lugar 
 
 ## Recetas Disponibles
 
-- [Receta de Pastel de Chocolate](recetas/pastel-de-chocolate.html)
-- [Receta de Ensalada César](recetas/ensalada-cesar.html)
-- [Receta de Sopa de Tomate](recetas/sopa-de-tomate.html)
+- [Classic Beef Empanadas](recipes/empanadas.html)
+- [Argentinian-Style Ribs](recipes/arg-style-ribs.html)
+- [Easy Chimichurri](recipes/easy-chimichurri.html)
 
 Cada enlace te llevará a la receta correspondiente. ¡Disfruta cocinando!
 
